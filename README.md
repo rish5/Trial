@@ -1,2 +1,2 @@
 # Trial
-This is my first repositories.
+This is my first project.
